@@ -151,9 +151,9 @@ vars.tf file contain the details and default values of variables use in the main
 
 It contains 3 optional blocks 
 
-Descriptions -- Here we describe about the variable 
-Type -- Variable type like string numeric 
-Default -- the Default value variable should use 
+1 Descriptions -- Here we describe about the variable 
+2 Type -- Variable type like string numeric 
+3 Default -- the Default value variable should use 
 
 ![vars tf](https://user-images.githubusercontent.com/104189782/188868619-b508c199-1568-4c7c-92a3-6ee6e2526f12.png)
 
